@@ -1,0 +1,21 @@
+.Cabecera
+{
+    align-items: center;
+    color: aqua;
+}
+.BarraDeNavegacion
+{
+    align-items: flex-start;
+    
+}
+#Tablas
+{
+   text-align: center;
+}
+
+nav 
+{
+    height: 60px;
+    background-color:#17181C;
+    text-align: center;
+}
