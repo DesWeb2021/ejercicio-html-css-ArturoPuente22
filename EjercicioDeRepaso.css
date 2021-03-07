@@ -1,21 +1,55 @@
 .Cabecera
 {
-    align-items: center;
-    color: aqua;
-}
-.BarraDeNavegacion
-{
-    align-items: flex-start;
+    
+    color:black;
+   
     
 }
-#Tablas
+
+
+#ImagenFacultad
+{
+  float: right;
+}
+
+
+#Tabla
 {
    text-align: center;
 }
 
+h1
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
 nav 
 {
-    height: 60px;
-    background-color:#17181C;
+    
+    background-color:rgb(11, 81, 83);
+    overflow: hidden;
+}
+nav a
+{
+    color: white;
+    float: right;
     text-align: center;
+    outline: none;
+    padding: 14px 16px;
+    border: 2px 2px rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#botonCambia
+{
+    background-color:rgb(11, 81, 83);
+    text-decoration: none;
+}
+#botonCambia.imagen1:active
+{
+    display: none;
 }
